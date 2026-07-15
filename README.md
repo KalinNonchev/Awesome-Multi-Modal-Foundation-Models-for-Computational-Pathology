@@ -16,6 +16,7 @@
 - MLLM4PUE — Toward Universal Embeddings in Digital Pathology through Multimodal LLMs
 - MUSK — A vision–language foundation model for precision oncology
 - TITAN — Multimodal Whole Slide Foundation Model for Pathology [https://github.com/mahmoodlab/TITAN]
+- DeepSpot-M — A multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology [https://github.com/ratschlab/DeepSpotM]
 
 ### LLM-Based
 
