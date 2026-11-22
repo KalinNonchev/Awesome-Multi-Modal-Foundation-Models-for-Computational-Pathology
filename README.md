@@ -17,6 +17,9 @@
 - MUSK — A vision–language foundation model for precision oncology
 - TITAN — Multimodal Whole Slide Foundation Model for Pathology [https://github.com/mahmoodlab/TITAN]
 - DeepSpot-M — A multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology [https://github.com/ratschlab/DeepSpotM]
+- DeepSpot-M (KPMP kidney) — Virtual spatial transcriptomics links kidney histopathology to disease-associated molecular programs [https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1]
+- KPMP virtual spatial transcriptomics atlas — DeepSpot-M predicted spatial gene expression (19,338 genes) for 1,534 H&E kidney biopsy slides from 476 KPMP participants [https://huggingface.co/datasets/ratschlab/KPMP_virtual_spatial_transcriptomics_atlas]
+- KPMP Xenium virtual spatial transcriptomics — DeepSpot-M predicted spatial gene expression (19,338 genes) for ~1.64M cells in 49 H&E sections of KPMP Xenium kidney biopsies [https://huggingface.co/datasets/ratschlab/KPMP_Xenium_virtual_spatial_transcriptomics]
 
 ### LLM-Based
 
